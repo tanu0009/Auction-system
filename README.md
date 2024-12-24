@@ -7,9 +7,6 @@
 - [Features](#Features)
 - [Tech Stacks & Libraries](#Tech-Stacks-&-Libraries)
 - [Model API's](#Model-API's)
-- [Acknowledgement](#Acknowledgement)
-- [Team Members](#Team-Members)
-- [Link to SRS](#Link-to-SRS)
 - [References](#References)
 
 ---
