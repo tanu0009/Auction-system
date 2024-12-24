@@ -55,11 +55,17 @@ Open your browser and navigate to http://localhost:8080.
 - Frontend: HTML, CSS, JavaScript
 
 ---
-### **Model API's** 
+### **Example**
+![Screenshot (1825)](https://github.com/user-attachments/assets/48c39554-1c8b-4073-8f11-c1a19b8357a8)
+![Screenshot (1824)](https://github.com/user-attachments/assets/db629d05-789b-4ae1-aab4-a2f943bab1bf)
+
 
 
 ### **References**
 - https://docs.oracle.com/en/java/javase/22/
+  
+
+
   
 
 
